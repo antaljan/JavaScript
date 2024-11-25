@@ -1,0 +1,39 @@
+/* CSS Document */
+@charset "utf-8";
+body {
+	font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: right;
+}
+button{
+	width: 40px;
+	height: 40px;
+}
+table {
+	height: 200px;
+	width: 200px;
+}
+td {
+	text-align: center;
+}
+#panel {
+	width: 200px;
+	padding: 10px;
+	border: 2px solid rgb(15, 12, 46);
+	background-color:rgb(109, 136, 176);
+	border-style:initial;
+}
+#eingabebox {
+	background-color: rgb(255, 255, 255);
+	padding: 5px;
+	width: 170px;
+	text-align: right;
+	margin-left: 10px;
+}
